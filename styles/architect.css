@@ -142,14 +142,16 @@ main{
     background-color: #ff900e;
     color: #fff;
     width: 340px;
-    padding: 40px;
+    /* width: 250px; */
+    /* height: 150px; */
+    padding: 10px;
     text-align: center;
     position:relative;
     bottom: 100px;
 }
 
 .ten-year-badge h2{
-    font-size: 4rem;
+    font-size: 3rem;
     margin-top: 0;
 }
 .ten-year-badge p{
